@@ -1,0 +1,29 @@
+{
+    "result": true,
+    "recognitionTask": {
+        "id": "7f81fb8b-b5e3-43f3-b874-49fe319f6c1b",
+        "space": {
+            "id": "c20d2182-db9f-43f3-82bc-79d65a5a7f46",
+            "name": "\u041c\u043e\u0438 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b"
+        },
+        "state": "UPLOADED",
+        "creator": {
+            "id": "d934a979-a30d-4294-a55c-350b458f5378",
+            "email": "dinam@list.ru",
+            "surname": null,
+            "name": null,
+            "patronymic": null,
+            "lang": "ru"
+        },
+        "files": [
+            {
+                "name": "Photo 2022-12-17 23:24:18.jpg"
+            }
+        ],
+        "createdDate": "2022-12-17T13:24:21.455519Z",
+        "source": "EXTERNAL_SYSTEM",
+        "clientData": null,
+        "additionalProcessing": false,
+        "balanceCost": 0
+    }
+}
